@@ -1,0 +1,2 @@
+# Abalone Age Linear Regressor
+Create a linear regression model to predict the age of abalone based on seven physical measurements. For this project, I implemented both a linear regressor and a neural network The mean square error of the linear regression model was 4.77 and the mean square error of the neural network was 4.52. For this project I used sklearn, pandas, imblearn, matplotlib, tensorflow, and seaborn.
